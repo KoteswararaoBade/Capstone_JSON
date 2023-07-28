@@ -1,0 +1,1000 @@
+{"banana": 1, "orange": 2}
+{"orange": 2, "grape": 3}
+{"grape": 3, "strawberry": 4}
+{"strawberry": 4, "mango": 5}
+{"mango": 5, "watermelon": 6}
+{"watermelon": 6, "pineapple": 7}
+{"pineapple": 7, "kiwi": 8}
+{"kiwi": 8, "pear": 9}
+{"pear": 9, "cherry": 10}
+{"cherry": 10, "blueberry": 11}
+{"blueberry": 11, "raspberry": 12}
+{"raspberry": 12, "lemon": 13}
+{"lemon": 13, "lime": 14}
+{"lime": 14, "peach": 15}
+{"peach": 15, "plum": 16}
+{"plum": 16, "pomegranate": 17}
+{"pomegranate": 17, "coconut": 18}
+{"coconut": 18, "avocado": 19}
+{"avocado": 19, "fig": 20}
+{"fig": 20, "grapefruit": 21}
+{"grapefruit": 21, "guava": 22}
+{"guava": 22, "melon": 23}
+{"melon": 23, "papaya": 24}
+{"papaya": 24, "blackberry": 25}
+{"blackberry": 25, "cranberry": 26}
+{"cranberry": 26, "apricot": 27}
+{"apricot": 27, "kiwifruit": 28}
+{"kiwifruit": 28, "nectarine": 29}
+{"nectarine": 29, "passion fruit": 30}
+{"passion fruit": 30, "tangerine": 31}
+{"tangerine": 31, "date": 32}
+{"date": 32, "elderberry": 33}
+{"elderberry": 33, "lychee": 34}
+{"lychee": 34, "persimmon": 35}
+{"persimmon": 35, "quince": 36}
+{"quince": 36, "star fruit": 37}
+{"star fruit": 37, "durian": 38}
+{"durian": 38, "dragon fruit": 39}
+{"dragon fruit": 39, "mulberry": 40}
+{"mulberry": 40, "jackfruit": 41}
+{"jackfruit": 41, "loquat": 42}
+{"loquat": 42, "boysenberry": 43}
+{"boysenberry": 43, "rhubarb": 44}
+{"rhubarb": 44, "blackcurrant": 45}
+{"blackcurrant": 45, "gooseberry": 46}
+{"gooseberry": 46, "soursop": 47}
+{"soursop": 47, "plantain": 48}
+{"plantain": 48, "apple": 49}
+{"apple": 49, "banana": 50}
+{"banana": 50, "orange": 51}
+{"orange": 51, "grape": 52}
+{"grape": 52, "strawberry": 53}
+{"strawberry": 53, "mango": 54}
+{"mango": 54, "watermelon": 55}
+{"watermelon": 55, "pineapple": 56}
+{"pineapple": 56, "kiwi": 57}
+{"kiwi": 57, "pear": 58}
+{"pear": 58, "cherry": 59}
+{"cherry": 59, "blueberry": 60}
+{"blueberry": 60, "raspberry": 61}
+{"raspberry": 61, "lemon": 62}
+{"lemon": 62, "lime": 63}
+{"lime": 63, "peach": 64}
+{"peach": 64, "plum": 65}
+{"plum": 65, "pomegranate": 66}
+{"pomegranate": 66, "coconut": 67}
+{"coconut": 67, "avocado": 68}
+{"avocado": 68, "fig": 69}
+{"fig": 69, "grapefruit": 70}
+{"grapefruit": 70, "guava": 71}
+{"guava": 71, "melon": 72}
+{"melon": 72, "papaya": 73}
+{"papaya": 73, "blackberry": 74}
+{"blackberry": 74, "cranberry": 75}
+{"cranberry": 75, "apricot": 76}
+{"apricot": 76, "kiwifruit": 77}
+{"kiwifruit": 77, "nectarine": 78}
+{"nectarine": 78, "passion fruit": 79}
+{"passion fruit": 79, "tangerine": 80}
+{"tangerine": 80, "date": 81}
+{"date": 81, "elderberry": 82}
+{"elderberry": 82, "lychee": 83}
+{"lychee": 83, "persimmon": 84}
+{"persimmon": 84, "quince": 85}
+{"quince": 85, "star fruit": 86}
+{"star fruit": 86, "durian": 87}
+{"durian": 87, "dragon fruit": 88}
+{"dragon fruit": 88, "mulberry": 89}
+{"mulberry": 89, "jackfruit": 90}
+{"jackfruit": 90, "loquat": 91}
+{"loquat": 91, "boysenberry": 92}
+{"boysenberry": 92, "rhubarb": 93}
+{"rhubarb": 93, "blackcurrant": 94}
+{"blackcurrant": 94, "gooseberry": 95}
+{"gooseberry": 95, "soursop": 96}
+{"soursop": 96, "plantain": 97}
+{"plantain": 97, "apple": 98}
+{"apple": 98, "banana": 99}
+{"banana": 99, "orange": 100}
+{"orange": 100, "grape": 101}
+{"grape": 101, "strawberry": 102}
+{"strawberry": 102, "mango": 103}
+{"mango": 103, "watermelon": 104}
+{"watermelon": 104, "pineapple": 105}
+{"pineapple": 105, "kiwi": 106}
+{"kiwi": 106, "pear": 107}
+{"pear": 107, "cherry": 108}
+{"cherry": 108, "blueberry": 109}
+{"blueberry": 109, "raspberry": 110}
+{"raspberry": 110, "lemon": 111}
+{"lemon": 111, "lime": 112}
+{"lime": 112, "peach": 113}
+{"peach": 113, "plum": 114}
+{"plum": 114, "pomegranate": 115}
+{"pomegranate": 115, "coconut": 116}
+{"coconut": 116, "avocado": 117}
+{"avocado": 117, "fig": 118}
+{"fig": 118, "grapefruit": 119}
+{"grapefruit": 119, "guava": 120}
+{"guava": 120, "melon": 121}
+{"melon": 121, "papaya": 122}
+{"papaya": 122, "blackberry": 123}
+{"blackberry": 123, "cranberry": 124}
+{"cranberry": 124, "apricot": 125}
+{"apricot": 125, "kiwifruit": 126}
+{"kiwifruit": 126, "nectarine": 127}
+{"nectarine": 127, "passion fruit": 128}
+{"passion fruit": 128, "tangerine": 129}
+{"tangerine": 129, "date": 130}
+{"date": 130, "elderberry": 131}
+{"elderberry": 131, "lychee": 132}
+{"lychee": 132, "persimmon": 133}
+{"persimmon": 133, "quince": 134}
+{"quince": 134, "star fruit": 135}
+{"star fruit": 135, "durian": 136}
+{"durian": 136, "dragon fruit": 137}
+{"dragon fruit": 137, "mulberry": 138}
+{"mulberry": 138, "jackfruit": 139}
+{"jackfruit": 139, "loquat": 140}
+{"loquat": 140, "boysenberry": 141}
+{"boysenberry": 141, "rhubarb": 142}
+{"rhubarb": 142, "blackcurrant": 143}
+{"blackcurrant": 143, "gooseberry": 144}
+{"gooseberry": 144, "soursop": 145}
+{"soursop": 145, "plantain": 146}
+{"plantain": 146, "apple": 147}
+{"apple": 147, "banana": 148}
+{"banana": 148, "orange": 149}
+{"orange": 149, "grape": 150}
+{"grape": 150, "strawberry": 151}
+{"strawberry": 151, "mango": 152}
+{"mango": 152, "watermelon": 153}
+{"watermelon": 153, "pineapple": 154}
+{"pineapple": 154, "kiwi": 155}
+{"kiwi": 155, "pear": 156}
+{"pear": 156, "cherry": 157}
+{"cherry": 157, "blueberry": 158}
+{"blueberry": 158, "raspberry": 159}
+{"raspberry": 159, "lemon": 160}
+{"lemon": 160, "lime": 161}
+{"lime": 161, "peach": 162}
+{"peach": 162, "plum": 163}
+{"plum": 163, "pomegranate": 164}
+{"pomegranate": 164, "coconut": 165}
+{"coconut": 165, "avocado": 166}
+{"avocado": 166, "fig": 167}
+{"fig": 167, "grapefruit": 168}
+{"grapefruit": 168, "guava": 169}
+{"guava": 169, "melon": 170}
+{"melon": 170, "papaya": 171}
+{"papaya": 171, "blackberry": 172}
+{"blackberry": 172, "cranberry": 173}
+{"cranberry": 173, "apricot": 174}
+{"apricot": 174, "kiwifruit": 175}
+{"kiwifruit": 175, "nectarine": 176}
+{"nectarine": 176, "passion fruit": 177}
+{"passion fruit": 177, "tangerine": 178}
+{"tangerine": 178, "date": 179}
+{"date": 179, "elderberry": 180}
+{"elderberry": 180, "lychee": 181}
+{"lychee": 181, "persimmon": 182}
+{"persimmon": 182, "quince": 183}
+{"quince": 183, "star fruit": 184}
+{"star fruit": 184, "durian": 185}
+{"durian": 185, "dragon fruit": 186}
+{"dragon fruit": 186, "mulberry": 187}
+{"mulberry": 187, "jackfruit": 188}
+{"jackfruit": 188, "loquat": 189}
+{"loquat": 189, "boysenberry": 190}
+{"boysenberry": 190, "rhubarb": 191}
+{"rhubarb": 191, "blackcurrant": 192}
+{"blackcurrant": 192, "gooseberry": 193}
+{"gooseberry": 193, "soursop": 194}
+{"soursop": 194, "plantain": 195}
+{"plantain": 195, "apple": 196}
+{"apple": 196, "banana": 197}
+{"banana": 197, "orange": 198}
+{"orange": 198, "grape": 199}
+{"grape": 199, "strawberry": 200}
+{"strawberry": 200, "mango": 201}
+{"mango": 201, "watermelon": 202}
+{"watermelon": 202, "pineapple": 203}
+{"pineapple": 203, "kiwi": 204}
+{"kiwi": 204, "pear": 205}
+{"pear": 205, "cherry": 206}
+{"cherry": 206, "blueberry": 207}
+{"blueberry": 207, "raspberry": 208}
+{"raspberry": 208, "lemon": 209}
+{"lemon": 209, "lime": 210}
+{"lime": 210, "peach": 211}
+{"peach": 211, "plum": 212}
+{"plum": 212, "pomegranate": 213}
+{"pomegranate": 213, "coconut": 214}
+{"coconut": 214, "avocado": 215}
+{"avocado": 215, "fig": 216}
+{"fig": 216, "grapefruit": 217}
+{"grapefruit": 217, "guava": 218}
+{"guava": 218, "melon": 219}
+{"melon": 219, "papaya": 220}
+{"papaya": 220, "blackberry": 221}
+{"blackberry": 221, "cranberry": 222}
+{"cranberry": 222, "apricot": 223}
+{"apricot": 223, "kiwifruit": 224}
+{"kiwifruit": 224, "nectarine": 225}
+{"nectarine": 225, "passion fruit": 226}
+{"passion fruit": 226, "tangerine": 227}
+{"tangerine": 227, "date": 228}
+{"date": 228, "elderberry": 229}
+{"elderberry": 229, "lychee": 230}
+{"lychee": 230, "persimmon": 231}
+{"persimmon": 231, "quince": 232}
+{"quince": 232, "star fruit": 233}
+{"star fruit": 233, "durian": 234}
+{"durian": 234, "dragon fruit": 235}
+{"dragon fruit": 235, "mulberry": 236}
+{"mulberry": 236, "jackfruit": 237}
+{"jackfruit": 237, "loquat": 238}
+{"loquat": 238, "boysenberry": 239}
+{"boysenberry": 239, "rhubarb": 240}
+{"rhubarb": 240, "blackcurrant": 241}
+{"blackcurrant": 241, "gooseberry": 242}
+{"gooseberry": 242, "soursop": 243}
+{"soursop": 243, "plantain": 244}
+{"plantain": 244, "apple": 245}
+{"apple": 245, "banana": 246}
+{"banana": 246, "orange": 247}
+{"orange": 247, "grape": 248}
+{"grape": 248, "strawberry": 249}
+{"strawberry": 249, "mango": 250}
+{"mango": 250, "watermelon": 251}
+{"watermelon": 251, "pineapple": 252}
+{"pineapple": 252, "kiwi": 253}
+{"kiwi": 253, "pear": 254}
+{"pear": 254, "cherry": 255}
+{"cherry": 255, "blueberry": 256}
+{"blueberry": 256, "raspberry": 257}
+{"raspberry": 257, "lemon": 258}
+{"lemon": 258, "lime": 259}
+{"lime": 259, "peach": 260}
+{"peach": 260, "plum": 261}
+{"plum": 261, "pomegranate": 262}
+{"pomegranate": 262, "coconut": 263}
+{"coconut": 263, "avocado": 264}
+{"avocado": 264, "fig": 265}
+{"fig": 265, "grapefruit": 266}
+{"grapefruit": 266, "guava": 267}
+{"guava": 267, "melon": 268}
+{"melon": 268, "papaya": 269}
+{"papaya": 269, "blackberry": 270}
+{"blackberry": 270, "cranberry": 271}
+{"cranberry": 271, "apricot": 272}
+{"apricot": 272, "kiwifruit": 273}
+{"kiwifruit": 273, "nectarine": 274}
+{"nectarine": 274, "passion fruit": 275}
+{"passion fruit": 275, "tangerine": 276}
+{"tangerine": 276, "date": 277}
+{"date": 277, "elderberry": 278}
+{"elderberry": 278, "lychee": 279}
+{"lychee": 279, "persimmon": 280}
+{"persimmon": 280, "quince": 281}
+{"quince": 281, "star fruit": 282}
+{"star fruit": 282, "durian": 283}
+{"durian": 283, "dragon fruit": 284}
+{"dragon fruit": 284, "mulberry": 285}
+{"mulberry": 285, "jackfruit": 286}
+{"jackfruit": 286, "loquat": 287}
+{"loquat": 287, "boysenberry": 288}
+{"boysenberry": 288, "rhubarb": 289}
+{"rhubarb": 289, "blackcurrant": 290}
+{"blackcurrant": 290, "gooseberry": 291}
+{"gooseberry": 291, "soursop": 292}
+{"soursop": 292, "plantain": 293}
+{"plantain": 293, "apple": 294}
+{"apple": 294, "banana": 295}
+{"banana": 295, "orange": 296}
+{"orange": 296, "grape": 297}
+{"grape": 297, "strawberry": 298}
+{"strawberry": 298, "mango": 299}
+{"mango": 299, "watermelon": 300}
+{"watermelon": 300, "pineapple": 301}
+{"pineapple": 301, "kiwi": 302}
+{"kiwi": 302, "pear": 303}
+{"pear": 303, "cherry": 304}
+{"cherry": 304, "blueberry": 305}
+{"blueberry": 305, "raspberry": 306}
+{"raspberry": 306, "lemon": 307}
+{"lemon": 307, "lime": 308}
+{"lime": 308, "peach": 309}
+{"peach": 309, "plum": 310}
+{"plum": 310, "pomegranate": 311}
+{"pomegranate": 311, "coconut": 312}
+{"coconut": 312, "avocado": 313}
+{"avocado": 313, "fig": 314}
+{"fig": 314, "grapefruit": 315}
+{"grapefruit": 315, "guava": 316}
+{"guava": 316, "melon": 317}
+{"melon": 317, "papaya": 318}
+{"papaya": 318, "blackberry": 319}
+{"blackberry": 319, "cranberry": 320}
+{"cranberry": 320, "apricot": 321}
+{"apricot": 321, "kiwifruit": 322}
+{"kiwifruit": 322, "nectarine": 323}
+{"nectarine": 323, "passion fruit": 324}
+{"passion fruit": 324, "tangerine": 325}
+{"tangerine": 325, "date": 326}
+{"date": 326, "elderberry": 327}
+{"elderberry": 327, "lychee": 328}
+{"lychee": 328, "persimmon": 329}
+{"persimmon": 329, "quince": 330}
+{"quince": 330, "star fruit": 331}
+{"star fruit": 331, "durian": 332}
+{"durian": 332, "dragon fruit": 333}
+{"dragon fruit": 333, "mulberry": 334}
+{"mulberry": 334, "jackfruit": 335}
+{"jackfruit": 335, "loquat": 336}
+{"loquat": 336, "boysenberry": 337}
+{"boysenberry": 337, "rhubarb": 338}
+{"rhubarb": 338, "blackcurrant": 339}
+{"blackcurrant": 339, "gooseberry": 340}
+{"gooseberry": 340, "soursop": 341}
+{"soursop": 341, "plantain": 342}
+{"plantain": 342, "apple": 343}
+{"apple": 343, "banana": 344}
+{"banana": 344, "orange": 345}
+{"orange": 345, "grape": 346}
+{"grape": 346, "strawberry": 347}
+{"strawberry": 347, "mango": 348}
+{"mango": 348, "watermelon": 349}
+{"watermelon": 349, "pineapple": 350}
+{"pineapple": 350, "kiwi": 351}
+{"kiwi": 351, "pear": 352}
+{"pear": 352, "cherry": 353}
+{"cherry": 353, "blueberry": 354}
+{"blueberry": 354, "raspberry": 355}
+{"raspberry": 355, "lemon": 356}
+{"lemon": 356, "lime": 357}
+{"lime": 357, "peach": 358}
+{"peach": 358, "plum": 359}
+{"plum": 359, "pomegranate": 360}
+{"pomegranate": 360, "coconut": 361}
+{"coconut": 361, "avocado": 362}
+{"avocado": 362, "fig": 363}
+{"fig": 363, "grapefruit": 364}
+{"grapefruit": 364, "guava": 365}
+{"guava": 365, "melon": 366}
+{"melon": 366, "papaya": 367}
+{"papaya": 367, "blackberry": 368}
+{"blackberry": 368, "cranberry": 369}
+{"cranberry": 369, "apricot": 370}
+{"apricot": 370, "kiwifruit": 371}
+{"kiwifruit": 371, "nectarine": 372}
+{"nectarine": 372, "passion fruit": 373}
+{"passion fruit": 373, "tangerine": 374}
+{"tangerine": 374, "date": 375}
+{"date": 375, "elderberry": 376}
+{"elderberry": 376, "lychee": 377}
+{"lychee": 377, "persimmon": 378}
+{"persimmon": 378, "quince": 379}
+{"quince": 379, "star fruit": 380}
+{"star fruit": 380, "durian": 381}
+{"durian": 381, "dragon fruit": 382}
+{"dragon fruit": 382, "mulberry": 383}
+{"mulberry": 383, "jackfruit": 384}
+{"jackfruit": 384, "loquat": 385}
+{"loquat": 385, "boysenberry": 386}
+{"boysenberry": 386, "rhubarb": 387}
+{"rhubarb": 387, "blackcurrant": 388}
+{"blackcurrant": 388, "gooseberry": 389}
+{"gooseberry": 389, "soursop": 390}
+{"soursop": 390, "plantain": 391}
+{"plantain": 391, "apple": 392}
+{"apple": 392, "banana": 393}
+{"banana": 393, "orange": 394}
+{"orange": 394, "grape": 395}
+{"grape": 395, "strawberry": 396}
+{"strawberry": 396, "mango": 397}
+{"mango": 397, "watermelon": 398}
+{"watermelon": 398, "pineapple": 399}
+{"pineapple": 399, "kiwi": 400}
+{"kiwi": 400, "pear": 401}
+{"pear": 401, "cherry": 402}
+{"cherry": 402, "blueberry": 403}
+{"blueberry": 403, "raspberry": 404}
+{"raspberry": 404, "lemon": 405}
+{"lemon": 405, "lime": 406}
+{"lime": 406, "peach": 407}
+{"peach": 407, "plum": 408}
+{"plum": 408, "pomegranate": 409}
+{"pomegranate": 409, "coconut": 410}
+{"coconut": 410, "avocado": 411}
+{"avocado": 411, "fig": 412}
+{"fig": 412, "grapefruit": 413}
+{"grapefruit": 413, "guava": 414}
+{"guava": 414, "melon": 415}
+{"melon": 415, "papaya": 416}
+{"papaya": 416, "blackberry": 417}
+{"blackberry": 417, "cranberry": 418}
+{"cranberry": 418, "apricot": 419}
+{"apricot": 419, "kiwifruit": 420}
+{"kiwifruit": 420, "nectarine": 421}
+{"nectarine": 421, "passion fruit": 422}
+{"passion fruit": 422, "tangerine": 423}
+{"tangerine": 423, "date": 424}
+{"date": 424, "elderberry": 425}
+{"elderberry": 425, "lychee": 426}
+{"lychee": 426, "persimmon": 427}
+{"persimmon": 427, "quince": 428}
+{"quince": 428, "star fruit": 429}
+{"star fruit": 429, "durian": 430}
+{"durian": 430, "dragon fruit": 431}
+{"dragon fruit": 431, "mulberry": 432}
+{"mulberry": 432, "jackfruit": 433}
+{"jackfruit": 433, "loquat": 434}
+{"loquat": 434, "boysenberry": 435}
+{"boysenberry": 435, "rhubarb": 436}
+{"rhubarb": 436, "blackcurrant": 437}
+{"blackcurrant": 437, "gooseberry": 438}
+{"gooseberry": 438, "soursop": 439}
+{"soursop": 439, "plantain": 440}
+{"plantain": 440, "apple": 441}
+{"apple": 441, "banana": 442}
+{"banana": 442, "orange": 443}
+{"orange": 443, "grape": 444}
+{"grape": 444, "strawberry": 445}
+{"strawberry": 445, "mango": 446}
+{"mango": 446, "watermelon": 447}
+{"watermelon": 447, "pineapple": 448}
+{"pineapple": 448, "kiwi": 449}
+{"kiwi": 449, "pear": 450}
+{"pear": 450, "cherry": 451}
+{"cherry": 451, "blueberry": 452}
+{"blueberry": 452, "raspberry": 453}
+{"raspberry": 453, "lemon": 454}
+{"lemon": 454, "lime": 455}
+{"lime": 455, "peach": 456}
+{"peach": 456, "plum": 457}
+{"plum": 457, "pomegranate": 458}
+{"pomegranate": 458, "coconut": 459}
+{"coconut": 459, "avocado": 460}
+{"avocado": 460, "fig": 461}
+{"fig": 461, "grapefruit": 462}
+{"grapefruit": 462, "guava": 463}
+{"guava": 463, "melon": 464}
+{"melon": 464, "papaya": 465}
+{"papaya": 465, "blackberry": 466}
+{"blackberry": 466, "cranberry": 467}
+{"cranberry": 467, "apricot": 468}
+{"apricot": 468, "kiwifruit": 469}
+{"kiwifruit": 469, "nectarine": 470}
+{"nectarine": 470, "passion fruit": 471}
+{"passion fruit": 471, "tangerine": 472}
+{"tangerine": 472, "date": 473}
+{"date": 473, "elderberry": 474}
+{"elderberry": 474, "lychee": 475}
+{"lychee": 475, "persimmon": 476}
+{"persimmon": 476, "quince": 477}
+{"quince": 477, "star fruit": 478}
+{"star fruit": 478, "durian": 479}
+{"durian": 479, "dragon fruit": 480}
+{"dragon fruit": 480, "mulberry": 481}
+{"mulberry": 481, "jackfruit": 482}
+{"jackfruit": 482, "loquat": 483}
+{"loquat": 483, "boysenberry": 484}
+{"boysenberry": 484, "rhubarb": 485}
+{"rhubarb": 485, "blackcurrant": 486}
+{"blackcurrant": 486, "gooseberry": 487}
+{"gooseberry": 487, "soursop": 488}
+{"soursop": 488, "plantain": 489}
+{"plantain": 489, "apple": 490}
+{"apple": 490, "banana": 491}
+{"banana": 491, "orange": 492}
+{"orange": 492, "grape": 493}
+{"grape": 493, "strawberry": 494}
+{"strawberry": 494, "mango": 495}
+{"mango": 495, "watermelon": 496}
+{"watermelon": 496, "pineapple": 497}
+{"pineapple": 497, "kiwi": 498}
+{"kiwi": 498, "pear": 499}
+{"pear": 499, "cherry": 500}
+{"cherry": 500, "blueberry": 501}
+{"blueberry": 501, "raspberry": 502}
+{"raspberry": 502, "lemon": 503}
+{"lemon": 503, "lime": 504}
+{"lime": 504, "peach": 505}
+{"peach": 505, "plum": 506}
+{"plum": 506, "pomegranate": 507}
+{"pomegranate": 507, "coconut": 508}
+{"coconut": 508, "avocado": 509}
+{"avocado": 509, "fig": 510}
+{"fig": 510, "grapefruit": 511}
+{"grapefruit": 511, "guava": 512}
+{"guava": 512, "melon": 513}
+{"melon": 513, "papaya": 514}
+{"papaya": 514, "blackberry": 515}
+{"blackberry": 515, "cranberry": 516}
+{"cranberry": 516, "apricot": 517}
+{"apricot": 517, "kiwifruit": 518}
+{"kiwifruit": 518, "nectarine": 519}
+{"nectarine": 519, "passion fruit": 520}
+{"passion fruit": 520, "tangerine": 521}
+{"tangerine": 521, "date": 522}
+{"date": 522, "elderberry": 523}
+{"elderberry": 523, "lychee": 524}
+{"lychee": 524, "persimmon": 525}
+{"persimmon": 525, "quince": 526}
+{"quince": 526, "star fruit": 527}
+{"star fruit": 527, "durian": 528}
+{"durian": 528, "dragon fruit": 529}
+{"dragon fruit": 529, "mulberry": 530}
+{"mulberry": 530, "jackfruit": 531}
+{"jackfruit": 531, "loquat": 532}
+{"loquat": 532, "boysenberry": 533}
+{"boysenberry": 533, "rhubarb": 534}
+{"rhubarb": 534, "blackcurrant": 535}
+{"blackcurrant": 535, "gooseberry": 536}
+{"gooseberry": 536, "soursop": 537}
+{"soursop": 537, "plantain": 538}
+{"plantain": 538, "apple": 539}
+{"apple": 539, "banana": 540}
+{"banana": 540, "orange": 541}
+{"orange": 541, "grape": 542}
+{"grape": 542, "strawberry": 543}
+{"strawberry": 543, "mango": 544}
+{"mango": 544, "watermelon": 545}
+{"watermelon": 545, "pineapple": 546}
+{"pineapple": 546, "kiwi": 547}
+{"kiwi": 547, "pear": 548}
+{"pear": 548, "cherry": 549}
+{"cherry": 549, "blueberry": 550}
+{"blueberry": 550, "raspberry": 551}
+{"raspberry": 551, "lemon": 552}
+{"lemon": 552, "lime": 553}
+{"lime": 553, "peach": 554}
+{"peach": 554, "plum": 555}
+{"plum": 555, "pomegranate": 556}
+{"pomegranate": 556, "coconut": 557}
+{"coconut": 557, "avocado": 558}
+{"avocado": 558, "fig": 559}
+{"fig": 559, "grapefruit": 560}
+{"grapefruit": 560, "guava": 561}
+{"guava": 561, "melon": 562}
+{"melon": 562, "papaya": 563}
+{"papaya": 563, "blackberry": 564}
+{"blackberry": 564, "cranberry": 565}
+{"cranberry": 565, "apricot": 566}
+{"apricot": 566, "kiwifruit": 567}
+{"kiwifruit": 567, "nectarine": 568}
+{"nectarine": 568, "passion fruit": 569}
+{"passion fruit": 569, "tangerine": 570}
+{"tangerine": 570, "date": 571}
+{"date": 571, "elderberry": 572}
+{"elderberry": 572, "lychee": 573}
+{"lychee": 573, "persimmon": 574}
+{"persimmon": 574, "quince": 575}
+{"quince": 575, "star fruit": 576}
+{"star fruit": 576, "durian": 577}
+{"durian": 577, "dragon fruit": 578}
+{"dragon fruit": 578, "mulberry": 579}
+{"mulberry": 579, "jackfruit": 580}
+{"jackfruit": 580, "loquat": 581}
+{"loquat": 581, "boysenberry": 582}
+{"boysenberry": 582, "rhubarb": 583}
+{"rhubarb": 583, "blackcurrant": 584}
+{"blackcurrant": 584, "gooseberry": 585}
+{"gooseberry": 585, "soursop": 586}
+{"soursop": 586, "plantain": 587}
+{"plantain": 587, "apple": 588}
+{"apple": 588, "banana": 589}
+{"banana": 589, "orange": 590}
+{"orange": 590, "grape": 591}
+{"grape": 591, "strawberry": 592}
+{"strawberry": 592, "mango": 593}
+{"mango": 593, "watermelon": 594}
+{"watermelon": 594, "pineapple": 595}
+{"pineapple": 595, "kiwi": 596}
+{"kiwi": 596, "pear": 597}
+{"pear": 597, "cherry": 598}
+{"cherry": 598, "blueberry": 599}
+{"blueberry": 599, "raspberry": 600}
+{"raspberry": 600, "lemon": 601}
+{"lemon": 601, "lime": 602}
+{"lime": 602, "peach": 603}
+{"peach": 603, "plum": 604}
+{"plum": 604, "pomegranate": 605}
+{"pomegranate": 605, "coconut": 606}
+{"coconut": 606, "avocado": 607}
+{"avocado": 607, "fig": 608}
+{"fig": 608, "grapefruit": 609}
+{"grapefruit": 609, "guava": 610}
+{"guava": 610, "melon": 611}
+{"melon": 611, "papaya": 612}
+{"papaya": 612, "blackberry": 613}
+{"blackberry": 613, "cranberry": 614}
+{"cranberry": 614, "apricot": 615}
+{"apricot": 615, "kiwifruit": 616}
+{"kiwifruit": 616, "nectarine": 617}
+{"nectarine": 617, "passion fruit": 618}
+{"passion fruit": 618, "tangerine": 619}
+{"tangerine": 619, "date": 620}
+{"date": 620, "elderberry": 621}
+{"elderberry": 621, "lychee": 622}
+{"lychee": 622, "persimmon": 623}
+{"persimmon": 623, "quince": 624}
+{"quince": 624, "star fruit": 625}
+{"star fruit": 625, "durian": 626}
+{"durian": 626, "dragon fruit": 627}
+{"dragon fruit": 627, "mulberry": 628}
+{"mulberry": 628, "jackfruit": 629}
+{"jackfruit": 629, "loquat": 630}
+{"loquat": 630, "boysenberry": 631}
+{"boysenberry": 631, "rhubarb": 632}
+{"rhubarb": 632, "blackcurrant": 633}
+{"blackcurrant": 633, "gooseberry": 634}
+{"gooseberry": 634, "soursop": 635}
+{"soursop": 635, "plantain": 636}
+{"plantain": 636, "apple": 637}
+{"apple": 637, "banana": 638}
+{"banana": 638, "orange": 639}
+{"orange": 639, "grape": 640}
+{"grape": 640, "strawberry": 641}
+{"strawberry": 641, "mango": 642}
+{"mango": 642, "watermelon": 643}
+{"watermelon": 643, "pineapple": 644}
+{"pineapple": 644, "kiwi": 645}
+{"kiwi": 645, "pear": 646}
+{"pear": 646, "cherry": 647}
+{"cherry": 647, "blueberry": 648}
+{"blueberry": 648, "raspberry": 649}
+{"raspberry": 649, "lemon": 650}
+{"lemon": 650, "lime": 651}
+{"lime": 651, "peach": 652}
+{"peach": 652, "plum": 653}
+{"plum": 653, "pomegranate": 654}
+{"pomegranate": 654, "coconut": 655}
+{"coconut": 655, "avocado": 656}
+{"avocado": 656, "fig": 657}
+{"fig": 657, "grapefruit": 658}
+{"grapefruit": 658, "guava": 659}
+{"guava": 659, "melon": 660}
+{"melon": 660, "papaya": 661}
+{"papaya": 661, "blackberry": 662}
+{"blackberry": 662, "cranberry": 663}
+{"cranberry": 663, "apricot": 664}
+{"apricot": 664, "kiwifruit": 665}
+{"kiwifruit": 665, "nectarine": 666}
+{"nectarine": 666, "passion fruit": 667}
+{"passion fruit": 667, "tangerine": 668}
+{"tangerine": 668, "date": 669}
+{"date": 669, "elderberry": 670}
+{"elderberry": 670, "lychee": 671}
+{"lychee": 671, "persimmon": 672}
+{"persimmon": 672, "quince": 673}
+{"quince": 673, "star fruit": 674}
+{"star fruit": 674, "durian": 675}
+{"durian": 675, "dragon fruit": 676}
+{"dragon fruit": 676, "mulberry": 677}
+{"mulberry": 677, "jackfruit": 678}
+{"jackfruit": 678, "loquat": 679}
+{"loquat": 679, "boysenberry": 680}
+{"boysenberry": 680, "rhubarb": 681}
+{"rhubarb": 681, "blackcurrant": 682}
+{"blackcurrant": 682, "gooseberry": 683}
+{"gooseberry": 683, "soursop": 684}
+{"soursop": 684, "plantain": 685}
+{"plantain": 685, "apple": 686}
+{"apple": 686, "banana": 687}
+{"banana": 687, "orange": 688}
+{"orange": 688, "grape": 689}
+{"grape": 689, "strawberry": 690}
+{"strawberry": 690, "mango": 691}
+{"mango": 691, "watermelon": 692}
+{"watermelon": 692, "pineapple": 693}
+{"pineapple": 693, "kiwi": 694}
+{"kiwi": 694, "pear": 695}
+{"pear": 695, "cherry": 696}
+{"cherry": 696, "blueberry": 697}
+{"blueberry": 697, "raspberry": 698}
+{"raspberry": 698, "lemon": 699}
+{"lemon": 699, "lime": 700}
+{"lime": 700, "peach": 701}
+{"peach": 701, "plum": 702}
+{"plum": 702, "pomegranate": 703}
+{"pomegranate": 703, "coconut": 704}
+{"coconut": 704, "avocado": 705}
+{"avocado": 705, "fig": 706}
+{"fig": 706, "grapefruit": 707}
+{"grapefruit": 707, "guava": 708}
+{"guava": 708, "melon": 709}
+{"melon": 709, "papaya": 710}
+{"papaya": 710, "blackberry": 711}
+{"blackberry": 711, "cranberry": 712}
+{"cranberry": 712, "apricot": 713}
+{"apricot": 713, "kiwifruit": 714}
+{"kiwifruit": 714, "nectarine": 715}
+{"nectarine": 715, "passion fruit": 716}
+{"passion fruit": 716, "tangerine": 717}
+{"tangerine": 717, "date": 718}
+{"date": 718, "elderberry": 719}
+{"elderberry": 719, "lychee": 720}
+{"lychee": 720, "persimmon": 721}
+{"persimmon": 721, "quince": 722}
+{"quince": 722, "star fruit": 723}
+{"star fruit": 723, "durian": 724}
+{"durian": 724, "dragon fruit": 725}
+{"dragon fruit": 725, "mulberry": 726}
+{"mulberry": 726, "jackfruit": 727}
+{"jackfruit": 727, "loquat": 728}
+{"loquat": 728, "boysenberry": 729}
+{"boysenberry": 729, "rhubarb": 730}
+{"rhubarb": 730, "blackcurrant": 731}
+{"blackcurrant": 731, "gooseberry": 732}
+{"gooseberry": 732, "soursop": 733}
+{"soursop": 733, "plantain": 734}
+{"plantain": 734, "apple": 735}
+{"apple": 735, "banana": 736}
+{"banana": 736, "orange": 737}
+{"orange": 737, "grape": 738}
+{"grape": 738, "strawberry": 739}
+{"strawberry": 739, "mango": 740}
+{"mango": 740, "watermelon": 741}
+{"watermelon": 741, "pineapple": 742}
+{"pineapple": 742, "kiwi": 743}
+{"kiwi": 743, "pear": 744}
+{"pear": 744, "cherry": 745}
+{"cherry": "745", ",blueberry": 746}
+{"blueberry": 746, "raspberry": 747}
+{"raspberry": 747, "lemon": 748}
+{"lemon": 748, "lime": 749}
+{"lime": 749, "peach": 750}
+{"peach": 750, "plum": 751}
+{"plum": 751, "pomegranate": 752}
+{"pomegranate": 752, "coconut": 753}
+{"coconut": 753, "avocado": 754}
+{"avocado": 754, "fig": 755}
+{"fig": 755, "grapefruit": 756}
+{"grapefruit": 756, "guava": 757}
+{"guava": 757, "melon": 758}
+{"melon": 758, "papaya": 759}
+{"papaya": 759, "blackberry": 760}
+{"blackberry": 760, "cranberry": 761}
+{"cranberry": 761, "apricot": 762}
+{"apricot": 762, "kiwifruit": 763}
+{"kiwifruit": 763, "nectarine": 764}
+{"nectarine": 764, "passion fruit": 765}
+{"passion fruit": 765, "tangerine": 766}
+{"tangerine": 766, "date": 767}
+{"date": 767, "elderberry": 768}
+{"elderberry": 768, "lychee": 769}
+{"lychee": 769, "persimmon": 770}
+{"persimmon": 770, "quince": 771}
+{"quince": 771, "star fruit": 772}
+{"star fruit": 772, "durian": 773}
+{"durian": 773, "dragon fruit": 774}
+{"dragon fruit": 774, "mulberry": 775}
+{"mulberry": 775, "jackfruit": 776}
+{"jackfruit": 776, "loquat": 777}
+{"loquat": 777, "boysenberry": 778}
+{"boysenberry": 778, "rhubarb": 779}
+{"rhubarb": 779, "blackcurrant": 780}
+{"blackcurrant": 780, "gooseberry": 781}
+{"gooseberry": 781, "soursop": 782}
+{"soursop": 782, "plantain": 783}
+{"plantain": 783, "apple": 784}
+{"apple": 784, "banana": 785}
+{"banana": 785, "orange": 786}
+{"orange": 786, "grape": 787}
+{"grape": 787, "strawberry": 788}
+{"strawberry": 788, "mango": 789}
+{"mango": 789, "watermelon": 790}
+{"watermelon": 790, "pineapple": 791}
+{"pineapple": 791, "kiwi": 792}
+{"kiwi": 792, "pear": 793}
+{"pear": 793, "cherry": 794}
+{"cherry": 794, "blueberry": 795}
+{"blueberry": 795, "raspberry": 796}
+{"raspberry": 796, "lemon": 797}
+{"lemon": 797, "lime": 798}
+{"lime": 798, "peach": 799}
+{"peach": 799, "plum": 800}
+{"plum": 800, "pomegranate": 801}
+{"pomegranate": 801, "coconut": 802}
+{"coconut": 802, "avocado": 803}
+{"avocado": 803, "fig": 804}
+{"fig": 804, "grapefruit": 805}
+{"grapefruit": 805, "guava": 806}
+{"guava": 806, "melon": 807}
+{"melon": 807, "papaya": 808}
+{"papaya": 808, "blackberry": 809}
+{"blackberry": 809, "cranberry": 810}
+{"cranberry": 810, "apricot": 811}
+{"apricot": 811, "kiwifruit": 812}
+{"kiwifruit": 812, "nectarine": 813}
+{"nectarine": 813, "passion fruit": 814}
+{"passion fruit": 814, "tangerine": 815}
+{"tangerine": 815, "date": 816}
+{"date": 816, "elderberry": 817}
+{"elderberry": 817, "lychee": 818}
+{"lychee": 818, "persimmon": 819}
+{"persimmon": 819, "quince": 820}
+{"quince": 820, "star fruit": 821}
+{"star fruit": 821, "durian": 822}
+{"durian": 822, "dragon fruit": 823}
+{"dragon fruit": 823, "mulberry": 824}
+{"mulberry": 824, "jackfruit": 825}
+{"jackfruit": 825, "loquat": 826}
+{"loquat": 826, "boysenberry": 827}
+{"boysenberry": 827, "rhubarb": 828}
+{"rhubarb": 828, "blackcurrant": 829}
+{"blackcurrant": 829, "gooseberry": 830}
+{"gooseberry": 830, "soursop": 831}
+{"soursop": 831, "plantain": 832}
+{"plantain": 832, "apple": 833}
+{"apple": 833, "banana": 834}
+{"banana": 834, "orange": 835}
+{"orange": 835, "grape": 836}
+{"grape": 836, "strawberry": 837}
+{"strawberry": 837, "mango": 838}
+{"mango": 838, "watermelon": 839}
+{"watermelon": 839, "pineapple": 840}
+{"pineapple": 840, "kiwi": 841}
+{"kiwi": 841, "pear": 842}
+{"pear": 842, "cherry": 843}
+{"cherry": 843, "blueberry": 844}
+{"blueberry": 844, "raspberry": 845}
+{"raspberry": 845, "lemon": 846}
+{"lemon": 846, "lime": 847}
+{"lime": 847, "peach": 848}
+{"peach": 848, "plum": 849}
+{"plum": 849, "pomegranate": 850}
+{"pomegranate": 850, "coconut": 851}
+{"coconut": 851, "avocado": 852}
+{"avocado": 852, "fig": 853}
+{"fig": 853, "grapefruit": 854}
+{"grapefruit": 854, "guava": 855}
+{"guava": 855, "melon": 856}
+{"melon": 856, "papaya": 857}
+{"papaya": 857, "blackberry": 858}
+{"blackberry": 858, "cranberry": 859}
+{"cranberry": 859, "apricot": 860}
+{"apricot": 860, "kiwifruit": 861}
+{"kiwifruit": 861, "nectarine": 862}
+{"nectarine": 862, "passion fruit": 863}
+{"passion fruit": 863, "tangerine": 864}
+{"tangerine": 864, "date": 865}
+{"date": 865, "elderberry": 866}
+{"elderberry": 866, "lychee": 867}
+{"lychee": 867, "persimmon": 868}
+{"persimmon": 868, "quince": 869}
+{"quince": 869, "star fruit": 870}
+{"star fruit": 870, "durian": 871}
+{"durian": 871, "dragon fruit": 872}
+{"dragon fruit": 872, "mulberry": 873}
+{"mulberry": 873, "jackfruit": 874}
+{"jackfruit": 874, "loquat": 875}
+{"loquat": 875, "boysenberry": 876}
+{"boysenberry": 876, "rhubarb": 877}
+{"rhubarb": 877, "blackcurrant": 878}
+{"blackcurrant": 878, "gooseberry": 879}
+{"gooseberry": 879, "soursop": 880}
+{"soursop": 880, "plantain": 881}
+{"plantain": 881, "apple": 882}
+{"apple": 882, "banana": 883}
+{"banana": 883, "orange": 884}
+{"orange": 884, "grape": 885}
+{"grape": 885, "strawberry": 886}
+{"strawberry": 886, "mango": 887}
+{"mango": 887, "watermelon": 888}
+{"watermelon": 888, "pineapple": 889}
+{"pineapple": 889, "kiwi": 890}
+{"kiwi": 890, "pear": 891}
+{"pear": 891, "cherry": 892}
+{"cherry": 892, "blueberry": 893}
+{"blueberry": 893, "raspberry": 894}
+{"raspberry": 894, "lemon": 895}
+{"lemon": 895, "lime": 896}
+{"lime": 896, "peach": 897}
+{"peach": 897, "plum": 898}
+{"plum": 898, "pomegranate": 899}
+{"pomegranate": 899, "coconut": 900}
+{"coconut": 900, "avocado": 901}
+{"avocado": 901, "fig": 902}
+{"fig": 902, "grapefruit": 903}
+{"grapefruit": 903, "guava": 904}
+{"guava": 904, "melon": 905}
+{"melon": 905, "papaya": 906}
+{"papaya": 906, "blackberry": 907}
+{"blackberry": 907, "cranberry": 908}
+{"cranberry": 908, "apricot": 909}
+{"apricot": 909, "kiwifruit": 910}
+{"kiwifruit": 910, "nectarine": 911}
+{"nectarine": 911, "passion fruit": 912}
+{"passion fruit": 912, "tangerine": 913}
+{"tangerine": 913, "date": 914}
+{"date": 914, "elderberry": 915}
+{"elderberry": 915, "lychee": 916}
+{"lychee": 916, "persimmon": 917}
+{"persimmon": 917, "quince": 918}
+{"quince": 918, "star fruit": 919}
+{"star fruit": 919, "durian": 920}
+{"durian": 920, "dragon fruit": 921}
+{"dragon fruit": 921, "mulberry": 922}
+{"mulberry": 922, "jackfruit": 923}
+{"jackfruit": 923, "loquat": 924}
+{"loquat": 924, "boysenberry": 925}
+{"boysenberry": 925, "rhubarb": 926}
+{"rhubarb": 926, "blackcurrant": 927}
+{"blackcurrant": 927, "gooseberry": 928}
+{"gooseberry": 928, "soursop": 929}
+{"soursop": 929, "plantain": 930}
+{"plantain": 930, "apple": 931}
+{"apple": 931, "banana": 932}
+{"banana": 932, "orange": 933}
+{"orange": 933, "grape": 934}
+{"grape": 934, "strawberry": 935}
+{"strawberry": 935, "mango": 936}
+{"mango": 936, "watermelon": 937}
+{"watermelon": 937, "pineapple": 938}
+{"pineapple": 938, "kiwi": 939}
+{"kiwi": 939, "pear": 940}
+{"pear": 940, "cherry": 941}
+{"cherry": 941, "blueberry": 942}
+{"blueberry": 942, "raspberry": 943}
+{"raspberry": 943, "lemon": 944}
+{"lemon": 944, "lime": 945}
+{"lime": 945, "peach": 946}
+{"peach": 946, "plum": 947}
+{"plum": 947, "pomegranate": 948}
+{"pomegranate": 948, "coconut": 949}
+{"coconut": 949, "avocado": 950}
+{"avocado": 950, "fig": 951}
+{"fig": 951, "grapefruit": 952}
+{"grapefruit": 952, "guava": 953}
+{"guava": 953, "melon": 954}
+{"melon": 954, "papaya": 955}
+{"papaya": 955, "blackberry": 956}
+{"blackberry": 956, "cranberry": 957}
+{"cranberry": 957, "apricot": 958}
+{"apricot": 958, "kiwifruit": 959}
+{"kiwifruit": 959, "nectarine": 960}
+{"nectarine": 960, "passion fruit": 961}
+{"passion fruit": 961, "tangerine": 962}
+{"tangerine": 962, "date": 963}
+{"date": 963, "elderberry": 964}
+{"elderberry": 964, "lychee": 965}
+{"lychee": 965, "persimmon": 966}
+{"persimmon": 966, "quince": 967}
+{"quince": 967, "star fruit": 968}
+{"star fruit": 968, "durian": 969}
+{"durian": 969, "dragon fruit": 970}
+{"dragon fruit": 970, "mulberry": 971}
+{"mulberry": 971, "jackfruit": 972}
+{"jackfruit": 972, "loquat": 973}
+{"loquat": 973, "boysenberry": 974}
+{"boysenberry": 974, "rhubarb": 975}
+{"rhubarb": 975, "blackcurrant": 976}
+{"blackcurrant": 976, "gooseberry": 977}
+{"gooseberry": 977, "soursop": 978}
+{"soursop": 978, "plantain": 979}
+{"plantain": 979, "apple": 980}
+{"apple": 980, "banana": 981}
+{"banana": 981, "orange": 982}
+{"orange": 982, "grape": 983}
+{"grape": 983, "strawberry": 984}
+{"strawberry": 984, "mango": 985}
+{"mango": 985, "watermelon": 986}
+{"watermelon": 986, "pineapple": 987}
+{"pineapple": 987, "kiwi": 988}
+{"kiwi": 988, "pear": 989}
+{"pear": 989, "cherry": 990}
+{"cherry": 990, "blueberry": 991}
+{"blueberry": 991, "raspberry": 992}
+{"raspberry": 992, "lemon": 993}
+{"lemon": 993, "lime": 994}
+{"lime": 994, "peach": 995}
+{"peach": 995, "plum": 996}
+{"plum": 996, "pomegranate": 997}
+{"pomegranate": 997, "coconut": "998"}
+{"coconut": 998, "avocado": 999}
+{"avocado": 999, "fig": 1000}
+{"fig": 1000, "grapefruit": 1001}

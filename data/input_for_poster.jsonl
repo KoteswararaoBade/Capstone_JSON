@@ -1,0 +1,4 @@
+{"name": "banana", "state": "NY", "prices": { "region_wise" : [10, 12, 13], "store_wise" : [8] }}
+{"name": "apples", "state": "CA", "prices": { "region_wise" : [13, 11, 12], "store_wise" : [7] }}
+{"name": "pears", "state": "NY", "prices": { "region_wise" : [10, "14", 13], "store_wise" : [8] }}
+{"name": "mangoes", "state": "NJ", "prices": { "region_wise" : [14, 12, 13], "store_wise" : [9] }}

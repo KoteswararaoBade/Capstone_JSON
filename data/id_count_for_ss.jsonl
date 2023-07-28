@@ -1,0 +1,53 @@
+
+{"key0": 1, "id": 1, "count": 8, "key1": 2}
+{"key0": 5, "id": 1, "count": "8", "key1": 2, "key2": 3, "key3": 4}
+
+
+{"id": 1, "count": 8}
+{"id": 1, "count": "8"}
+
+
+
+{"product": "IPhone 14", "brand": "Apple"}
+
+
+
+
+{"prices": ["799"]}
+
+
+
+{"mangoes": 5, "apples": 10}
+{"bananas": 12, "pears": 4}
+
+
+{"name": "banana", "state": "NY", "prices": { "region_wise" : [10, 12, 13], "store_wise" : [8]}}
+{"name": "apples", "state": "CA", "prices": { "region_wise" : [13, 11, 12], "store_wise" : [7]}}
+{"name": "pears", "state": "NY", "prices": { "region_wise" : [10, "14", 13], "store_wise" : [8]}}
+{"name": "mangoes", "state": "NJ", "prices": { "region_wise" : [14, 12, 13], "store_wise" : [9]}}
+
+
+// Input after 1st step:
+
+
+{"name": "banana", "state": "NY", "prices": { "region_wise" : [10, 12, 13], "store_wise" : [8]}}
+{"name": "pears", "state": "NY", "prices": { "region_wise" : [10, "14", 13], "store_wise" : [8]}}
+
+
+// Input after 2nd step:
+
+{"state": "NY", "prices": {"region_wise": [10, 12, 13]}}
+{"state": "NY", "prices": {"region_wise": [10, "14", 13]}}
+
+
+// Input after 3rd step:
+
+{"state": "NY", "prices": {"region_wise": [12, 13]}}
+{"state": "NY", "prices": {"region_wise": [10, "14"]}}
+
+
+
+
+
+
+
