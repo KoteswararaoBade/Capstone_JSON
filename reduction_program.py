@@ -4,6 +4,7 @@ import subprocess
 import sys
 import time
 import random
+import shlex
 
 import jsonpath_ng
 
@@ -13,14 +14,19 @@ MAX_ITERATIONS = 20
 def main():
     if len(sys.argv) > 2:
         filename = sys.argv[1]
-        program_name = sys.argv[2]
+        program = sys.argv[2]
 
         print("Reduction started...")
         start = time.time()
-        start_iterations_of_reduction(filename, program_name)
+        start_iterations_of_reduction(filename, program)
         print('Time taken: ', time.time() - start)
     else:
-        print("Usage: python3 reduction_program.py <filename> <program_name>")
+        print("Usage: python3 reduction_program.py <filename> <program>")
+
+
+def run_program(program, input_json):
+    output = subprocess.run(shlex.split(program), input=input_json, capture_output=True, text=True)
+    return output.stderr
 
 
 def shuffle_input(input_as_list):
@@ -33,7 +39,7 @@ def shuffle_input(input_as_list):
     return '\n'.join(input_as_list)
 
 
-def start_iterations_of_reduction(filename, program_name):
+def start_iterations_of_reduction(filename, program):
     # read file and check the error and number of lines
     number_of_lines = 0
     initial_input = ""
@@ -41,10 +47,10 @@ def start_iterations_of_reduction(filename, program_name):
         for line in f:
             initial_input += line
             number_of_lines += 1
-    output = subprocess.run(['python3', program_name], input=initial_input, capture_output=True, text=True)
-    error = output.stderr
 
-    print("Error before itertaion: ", error)
+    error = run_program(program, initial_input.strip())
+
+    print("Error before iteration: ", error)
     i = 1
     while True:
         print('Iteration Number: ', i)
@@ -55,8 +61,8 @@ def start_iterations_of_reduction(filename, program_name):
         input_as_list = initial_input.split('\n')
         first_half = '\n'.join(input_as_list[:number_of_lines // 2])
 
-        output_1 = subprocess.run(['python3', program_name], input=first_half, capture_output=True, text=True)
-        if output_1.stderr and output_1.stderr == error:
+        output_1_error = run_program(program, first_half)
+        if output_1_error and output_1_error == error:
             i += 1
             print('First half produced an error.', error)
             initial_input = first_half
@@ -66,8 +72,8 @@ def start_iterations_of_reduction(filename, program_name):
 
         # call subprocess for second half of the initial input
         second_half = '\n'.join(input_as_list[number_of_lines // 2:])
-        output_2 = subprocess.run(['python3', program_name], input=second_half, capture_output=True, text=True)
-        if output_2.stderr and output_2.stderr == error:
+        output_2_error = run_program(program, first_half)
+        if output_2_error and output_2_error == error:
             i += 1
             print('Second half produced an error.', error)
             initial_input = second_half
@@ -76,8 +82,8 @@ def start_iterations_of_reduction(filename, program_name):
             continue
 
         # if both halves do not produce any error, then shuffle the input and try again
-        if (not output_1.stderr or output_1.stderr != error) and \
-                (not output_2.stderr or output_2.stderr != error):
+        if (not output_1_error or output_1_error != error) and \
+                (not output_2_error or output_2_error != error):
             print('Both halves did not produce any error or produced a different error.')
             i += 1
             print('Shuffling the input...')
@@ -87,11 +93,11 @@ def start_iterations_of_reduction(filename, program_name):
     print('input after initial reduction is: \n', initial_input, '\n')
     print('Removing the keys one by one...')
     # remove the keys from the input
-    initial_input = reduce_input_by_removing_keys(error, initial_input, program_name)
+    initial_input = reduce_input_by_removing_keys(error, initial_input, program)
     print('input after removing keys is: \n', initial_input, '\n')
 
     print('Reducing the arrays...')
-    initial_input = remove_elements_from_list(error, initial_input, program_name)
+    initial_input = remove_elements_from_list(error, initial_input, program)
     print('input after removing elements from arrays is: \n', initial_input, '\n')
 
     # write the final input to a file
@@ -99,7 +105,7 @@ def start_iterations_of_reduction(filename, program_name):
         f.write(initial_input)
 
 
-def reduce_input_by_removing_keys(error, initial_input, program_name):
+def reduce_input_by_removing_keys(error, initial_input, program):
     keys = set()
     temp_input = initial_input.split('\n')
     for line in temp_input:
@@ -118,9 +124,7 @@ def reduce_input_by_removing_keys(error, initial_input, program_name):
 
         # call the subprocess with the new input
         input_to_program = '\n'.join(temp_input)
-        output = subprocess.run(['python3', program_name], input=input_to_program, capture_output=True, text=True)
-
-        current_error = output.stderr
+        current_error = run_program(program, input_to_program)
         if not current_error or current_error != error:
             temp_input = initial_input.split('\n')
         else:
@@ -139,7 +143,7 @@ def check_if_key_exists_in_input(key, path, input_as_json):
     return key in new_input
 
 
-def remove_elements_from_list(error, initial_input, program_name):
+def remove_elements_from_list(error, initial_input, program):
     temp_input = initial_input.split('\n')
     for i in range(len(temp_input)):
         temp = json.loads(temp_input[i])
@@ -170,10 +174,8 @@ def remove_elements_from_list(error, initial_input, program_name):
                 temp_input[i] = json.dumps(temp)
                 # call the subprocess with the new input
                 input_to_program = '\n'.join(temp_input)
-                output1 = subprocess.run(['python3', program_name], input=input_to_program, capture_output=True,
-                                         text=True)
-
-                if output1.stderr and output1.stderr == error:
+                output1_error = run_program(program, input_to_program)
+                if output1_error and output1_error == error:
                     num_iterations += 1
                     print('First half of the array produced an error.')
                     initial_input = input_to_program
@@ -184,18 +186,16 @@ def remove_elements_from_list(error, initial_input, program_name):
                 temp_input[i] = json.dumps(temp)
                 # call the subprocess with the new input
                 input_to_program = '\n'.join(temp_input)
-                output2 = subprocess.run(['python3', program_name], input=input_to_program, capture_output=True,
-                                         text=True)
-
-                if output2.stderr and output2.stderr == error:
+                output2_error = run_program(program, input_to_program)
+                if output2_error and output2_error == error:
                     num_iterations += 1
                     print('Second half of the array produced an error.')
                     initial_input = input_to_program
                     print('Second half is: \n', initial_input)
 
                 # if both halves do not produce any error, then shuffle the input and try again
-                if (not output1.stderr or output1.stderr != error) and \
-                        (not output2.stderr or output2.stderr != error):
+                if (not output1_error or output1_error != error) and \
+                        (not output2_error or output2_error != error):
                     print('Both halves did not produce any error or produced a different error.')
                     print('Shuffling the array elements...')
                     num_iterations += 1
